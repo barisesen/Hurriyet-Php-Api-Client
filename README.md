@@ -1,4 +1,8 @@
 # Hürriyet Public Api
+[![Latest Stable Version](https://poser.pugx.org/barisesen/hurriyet/v/stable)](https://packagist.org/packages/barisesen/hurriyet)
+[![Total Downloads](https://poser.pugx.org/barisesen/hurriyet/downloads)](https://packagist.org/packages/barisesen/hurriyet)
+[![Latest Unstable Version](https://poser.pugx.org/barisesen/hurriyet/v/unstable)](https://packagist.org/packages/barisesen/hurriyet)
+[![License](https://poser.pugx.org/barisesen/hurriyet/license)](https://packagist.org/packages/barisesen/hurriyet)
 
 Hürriyet Api client for Php
 

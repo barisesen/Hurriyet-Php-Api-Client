@@ -24,7 +24,7 @@ $ composer require barisesen/hurriyet
 
 ## Examples
 
-[Hurriyet API Client Example](https://github.com/barisesen/hurriyet/tree/master/examples)
+[Hurriyet API Client Example](https://github.com/barisesen/Hurriyet-Php-Api-Client/tree/master/examples)
 
 ## Usage
 

@@ -1,6 +1,6 @@
 {
     "name": "barisesen/hurriyet",
-    "description": "Hurriyet public api için yazılmış http client",
+    "description": "Hurriyet public api client for PHP",
     "license": "MIT",
     "keywords": ["hurriyet", "api", "public", "news", "haber", "gazete"],
     "authors": [

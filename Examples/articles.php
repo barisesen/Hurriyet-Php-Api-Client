@@ -1,8 +1,8 @@
 <?php
-require_once __DIR__ . '/../vendor/autoload.php';
+require '../vendor/autoload.php';
 
 use Esen\Hurriyet;
-$hurriyet = new Hurriyet('your-api-token');
+$hurriyet = new Hurriyet('your api token');
 
 // List id = 40530799 Article //
 $arr = [

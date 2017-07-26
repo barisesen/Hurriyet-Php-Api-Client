@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../vendor/autoload.php';
+require '../vendor/autoload.php';
 
 use Esen\Hurriyet;
 $hurriyet = new Hurriyet('your-api-token');

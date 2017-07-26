@@ -1,0 +1,20 @@
+{
+    "name": "barisesen/Hurriyet",
+    "description": "Hurriyet public api için yazılmış http client",
+    "license": "MIT",
+    "keywords": ["hurriyet", "api", "public", "news", "haber", "gazete"],
+    "authors": [
+        {
+            "name": "Barış Esen",
+            "email": "baris.esen@ni.net.tr",
+            "homepage": "https://barisesen.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Esen\\": "src"
+        }
+    }
+}

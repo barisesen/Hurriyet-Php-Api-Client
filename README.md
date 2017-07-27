@@ -74,4 +74,4 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## Contributors
 
-- [barisesen](https://github.com/barisesen) Barış Esen - creator, maintainer
+- [barisesen](https://github.com/barisesen) [barisesen.com](https://barisesen.com) Barış Esen - creator, maintainer
